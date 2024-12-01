@@ -25,5 +25,10 @@ private MySqlConnection con = new MySqlConnection("server=localhost;user=root;
 password=;database=dblibrary;convert zero datetime=True");
 }
 ```
+<footer bgcolor="red">
+  <p>Author: Pamuditha Rasanjana<br>
+  <a href="mailto:pamudithaperera888@gmail.com">pamudithaperera888@gmail.com</a></p>
+</footer>
+
 
 </body>
