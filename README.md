@@ -18,4 +18,12 @@ A Library Management System that I made using C#, .NET and Windows Forms. This p
 - [ ] Fires Unship this folder
 - [ ] Affter unship <B>MateLibrary.rar</B> File using winrar
 - [ ] Affter Open project file using vishual studio <b>C# Project Function</b>
+- [ ] Affter Edit <b>MateLibrary\LibrarySystem\Includes\SQLConfig.cs</b>
+
+```
+private MySqlConnection con = new MySqlConnection("server=localhost;user=root;
+password=;database=dblibrary;convert zero datetime=True");
+}
+```
+
 </body>
